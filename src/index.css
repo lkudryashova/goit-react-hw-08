@@ -34,3 +34,9 @@ img {
   margin-left: 15px;
   margin-top: 15px;
 }
+
+.wellcomeText {
+  color: darkslateblue;
+  padding-top: 10px;
+  padding-left: 10px;
+}

@@ -1,0 +1,6 @@
+loader {
+  width: 5em;
+  position: fixed;
+  top: calc(50vh - 0.5em);
+  margin: auto;
+}
